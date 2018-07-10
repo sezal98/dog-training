@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lancelot1337/dog-training/issues"
   },
-  "homepage": "https://github.com/lancelot1337/dog-training#readme"
+  "homepage": "https://github.com/lancelot1337/dog-training#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
